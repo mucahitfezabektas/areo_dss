@@ -1,0 +1,6 @@
+__pycache__/
+build/
+dist/
+.pydeps/
+dss_decision_log.csv
+*.spec.bak
